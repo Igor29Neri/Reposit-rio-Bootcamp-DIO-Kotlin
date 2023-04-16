@@ -1,2 +1,2 @@
-# Reposit-rio-Bootcamp-DIO-Kotlin
+# Repositorio-Bootcamp-DIO-Kotlin
 Desafio Projeto Git/GitHub
